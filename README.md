@@ -4,5 +4,5 @@ Here Cursor will move with control of our index finger and when the distance bet
 In this we used OpenCv, python, mediapipe, autopy.
 | Photo     |
 |------------|
-| <img src="" width="500"> |
+
 ![1 photo](https://user-images.githubusercontent.com/82761457/170815538-780acd82-f2e4-429e-acc6-04207b562c77.png)
